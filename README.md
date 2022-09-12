@@ -3,7 +3,7 @@ Get the list of all shared agents and their status
 
 This is a python script to get the list and status of shared agents at CJOC level and then get drilldown to controller level.
 ## Prerequisite :
-### Python3 with packages - json, sys, getpass, inquirer
+### Python3 with packages - json, sys, getpass, inquirer, requests
 
 ## Usage:
 Run the python script "ocSharedAgents.py" in this repo.
