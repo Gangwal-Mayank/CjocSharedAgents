@@ -2,12 +2,12 @@
 Get the list of all shared agents and their status
 
 This is a python script to get the list and status of shared agents at CJOC level and then get drilldown to controller level.
-##Prerequiste :
+## Prerequiste :
 Python3 with packages - json, sys, getpass, inquirer
 
-##Usage:
+## Usage:
 Run the python script "ocSharedAgents.py" in this repo.
-###python3 ocSharedAgents.py
+### python3 ocSharedAgents.py
 This will ask for user inputs such as :
 1) Enter jenkins url: example url - "http://example.jenkinshost/"
 2) Enter username:
